@@ -1,0 +1,5 @@
+{
+  "name": "마이캐릭3D",
+  "description": "Transform your photos into adorable 3D characters! Upload an image, select an age range, and let Gemini 2.5 Flash Image create a cute 3D avatar for you. Download your creation as a JPEG.",
+  "requestFramePermissions": []
+}
